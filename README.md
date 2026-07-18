@@ -38,4 +38,5 @@ Lifelong Learner, currently Learn At SMK YPC.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
+![](<img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/cd0aed5e-7a49-4183-9e11-80f2ef5184f2" />
+)
