@@ -23,20 +23,15 @@ Lifelong Learner, currently Learn At SMK YPC.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://youtube.com/@farhanelmuhammady">
-<a href="https://www.youtube.com/@farhanelmuhammady">
-  <img
-    align="left"
-    alt="Farhan El Muhammady YouTube"
-    width="20px"
-    src="https://cdn.simpleicons.org/youtube/FF0000" />
-</a>"
-</a>
-<a href="https://www.instagram.com/farhan_el_/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+<p align="left">
+  <a href="https://www.youtube.com/@farhanelmuhammady">
+    <img alt="YouTube" width="25" src="https://cdn.simpleicons.org/youtube/FF0000" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/farhan_el_">
+    <img alt="Instagram" width="25" src="https://cdn.simpleicons.org/instagram/E4405F" />
+  </a>
+</p>
 
+### <summary><strong>Badges!</strong></summary>
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
