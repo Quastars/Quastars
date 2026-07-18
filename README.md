@@ -28,3 +28,4 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
