@@ -24,14 +24,19 @@ Lifelong Learner, currently Learn At SMK YPC.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <p align="left">
-  <a href="https://www.youtube.com/@farhanelmuhammady">
+  <a href="https://www.youtube.com/@farhanelmuhammady" target="_blank">
     <img alt="YouTube" width="25" src="https://cdn.simpleicons.org/youtube/FF0000" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/farhan_el_">
-    <img alt="Instagram" width="25" src="https://cdn.simpleicons.org/instagram/E4405F" />
+  <a href="https://instagram.com/farhan_el_" target="_blank">
+    <img alt="Instagram" width="25" src="https://cdn.simpleicons.org/instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@ngopipagilur" target="_blank">
+    <img alt="TikTok" width="25" src="https://cdn.simpleicons.org/tiktok" />
   </a>
 </p>
-
 ### <summary><strong>Badges!</strong></summary>
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+DeepSeek	![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
