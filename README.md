@@ -1,6 +1,6 @@
 ## Hi there 👋
 # <summary><strong>Hi there :wave: , I'm Farhan!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+Lifelong Learner, currently Learn At SMK YPC.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -20,7 +20,13 @@ Lifelong Learner, currently working as budagh kompeni.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://youtube.com/@farhanelmuhammady">
-  <img align="left" alt="Goo's youtube" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://www.youtube.com/@farhanelmuhammady">
+  <img
+    align="left"
+    alt="Farhan El Muhammady YouTube"
+    width="20px"
+    src="https://cdn.simpleicons.org/youtube/FF0000" />
+</a>" />
 </a>
 <a href="https://www.instagram.com/farhan_el_/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
