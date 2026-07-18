@@ -36,9 +36,9 @@ Lifelong Learner, currently Learn At SMK YPC.
     <img alt="TikTok" width="25" src="https://cdn.simpleicons.org/tiktok" />
   </a>
 </p>
-### <summary><strong>Badges!</strong></summary>
+
+## Badges!
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-DeepSeek	![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
