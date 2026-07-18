@@ -30,7 +30,7 @@ Lifelong Learner, currently Learn At SMK YPC.
     alt="Farhan El Muhammady YouTube"
     width="20px"
     src="https://cdn.simpleicons.org/youtube/FF0000" />
-</a>" />
+</a>"
 </a>
 <a href="https://www.instagram.com/farhan_el_/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
