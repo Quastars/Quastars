@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/6106aded-8597-4ab6-b83e-54685f541ec0" />
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/261597859315554988/FFA9A144F9159B2FD21E62F2B25D15360D8D0F02/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500">
+</p>
 
 # <summary><strong>Hi there :wave: , I'm Farhan!</strong></summary>
 Lifelong Learner, currently Learn At SMK YPC.
