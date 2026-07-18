@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/6106aded-8597-4ab6-b83e-54685f541ec0" />
+
 # <summary><strong>Hi there :wave: , I'm Farhan!</strong></summary>
 Lifelong Learner, currently Learn At SMK YPC.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
@@ -38,5 +40,4 @@ Lifelong Learner, currently Learn At SMK YPC.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-![](<img width="249" height="498" alt="image" src="https://github.com/user-attachments/assets/cd0aed5e-7a49-4183-9e11-80f2ef5184f2" />
-)
+
