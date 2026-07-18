@@ -38,5 +38,7 @@ Lifelong Learner, currently Learn At SMK YPC.
 </p>
 ### <summary><strong>Badges!</strong></summary>
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 DeepSeek	![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
