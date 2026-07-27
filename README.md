@@ -12,6 +12,13 @@ Lifelong Learner, currently Learn At SMK YPC.
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+## ⚡ GitHub Stats
+
+<p align="center">
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=0-don&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=0-don&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-don&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
@@ -42,4 +49,6 @@ Lifelong Learner, currently Learn At SMK YPC.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
+
+## My Contribution snake🐍
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
