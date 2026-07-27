@@ -12,7 +12,7 @@ Lifelong Learner, currently Learn At SMK YPC.
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-## ⚡ GitHub Stats!
+## ⚡ GitHub Stats
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=0-don&hide_border=true&theme=dark" />
