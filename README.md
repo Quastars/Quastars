@@ -16,19 +16,14 @@ Lifelong Learner, currently Learn At SMK YPC.
 
 ### ⚡ GitHub Stats!
 
-<p align="center">
-  <a href="https://github.com/0-don/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=0-don&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" width="48%" align="top" />
-  </a>
-  <a href="https://github.com/0-don/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-don&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" width="48%" align="top" />
-  </a>
-</p>
-<br clear="both"/>
+
 
 <p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=0-don&hide_border=true&theme=dark" />
+    <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=0-don&hide_border=true&theme=dark" align="top" />
+    &nbsp;&nbsp;
+    <img height="130px" src="https://github.com/sw-yx/sw-yx/raw/master/generated/languages.svg" align="top" />
 </p>
+<br clear="both"/>
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
@@ -62,5 +57,3 @@ Lifelong Learner, currently Learn At SMK YPC.
 
 ## My Contribution snake🐍
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
