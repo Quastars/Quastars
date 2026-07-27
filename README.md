@@ -1,4 +1,4 @@
-<img width="360" height="210" alt="languages" src="https://github.com/user-attachments/assets/f5cda3d4-8e7b-41b0-9723-0c6cfb37cdf1" />
+
 ## Hi there 👋
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB6Y3Zoa20xMmVncGg3ZHVmM29ydnJ3aG5oZm5sNWM0a3VvMnd5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8SEnoMhrEeBDa/giphy.gif">
