@@ -1,7 +1,8 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/261597859315554988/FFA9A144F9159B2FD21E62F2B25D15360D8D0F02/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB6Y3Zoa20xMmVncGg3ZHVmM29ydnJ3aG5oZm5sNWM0a3VvMnd5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8SEnoMhrEeBDa/giphy.gif">
 </p>
+
 
 # <summary><strong>Hi there :wave: , I'm Farhan!</strong></summary>
 Lifelong Learner, currently Learn At SMK YPC.
